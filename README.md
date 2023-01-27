@@ -1,4 +1,5 @@
-App with React calender library:
+**App with React calender library:**
+
 React-calendar is an easy-to-use calendar library for React. It provides functionality that helps you to manipulate and manage date and time.
 
 React-calendar gives end-users the ability to pick a day, month, or even a year.
