@@ -1,3 +1,21 @@
+App with React calender library:
+React-calendar is an easy-to-use calendar library for React. It provides functionality that helps you to manipulate and manage date and time.
+
+React-calendar gives end-users the ability to pick a day, month, or even a year.
+
+user story:
+
+add react-calendar to your React app.
+style react-calendar.
+customize react-calendar.
+users to select a date range in react-calendar.
+create a date picker.
+
+OutPut:
+
+![image](https://user-images.githubusercontent.com/15225177/215057304-a0e94067-21d2-4f1f-a389-aeb61931d70e.png)
+
+**********************************************************************
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
